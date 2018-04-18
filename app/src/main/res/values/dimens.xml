@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin/Padding -->
+    <dimen name="zero">0dp</dimen>
+    <dimen name="main_padding_20px">20dp</dimen>
+    <dimen name="main_padding_15px">15dp</dimen>
+    <dimen name="main_padding_10px">10dp</dimen>
+    <dimen name="main_padding_5px">5dp</dimen>
+
+    <dimen name="main_margin_50px">50dp</dimen>
+    <dimen name="main_margin_35px">35dp</dimen>
+    <dimen name="main_margin_20px">20dp</dimen>
+    <dimen name="main_margin_10px">10dp</dimen>
+
+    <!-- Font Size -->
+    <dimen name="font_size_big">28sp</dimen>
+    <dimen name="font_size_middle">20sp</dimen>
+    <dimen name="font_size_small">14sp</dimen>
+    <dimen name="font_size_extra_small">10sp</dimen>
+
+</resources>

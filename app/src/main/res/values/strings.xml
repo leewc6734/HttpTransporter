@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Http Transporter</string>
+
+    <!-- Label -->
+    <string name="label_ip_address">IP Address</string>
+    <string name="label_device_ip_address">Device IP Address</string>
+    <string name="label_action_location">Action Location</string>
+    <string name="label_parameter_name">Parameter</string>
+    <string name="label_parameter_value">Value</string>
+    <string name="label_send">Send</string>
+    <string name="label_send_by_post">POST</string>
+    <string name="label_send_by_get">GET</string>
+
+    <string name="enter_text">Enter text here</string>
+    <string name="only_ip_address">Only support IPv4 Address</string>
+
+    <!-- Warning/Notice -->
+    <string name="notice_params_use_comma">(Separate PARAMETERS with commas)</string>
+    <string name="notice_values_use_comma">(Separate VALUE with commas)</string>
+
+    <!-- Default values -->
+    <string name="default_ip_address">192.168.1.131</string>
+    <string name="default_action_testing">/response_test.php</string>
+    <string name="default_action_ringing">/boafrm/formWizard</string>
+    <string name="default_parameter_name">playring</string>
+    <string name="default_parameter_value">playring</string>
+    <string name="default_parameter_name_test">default</string>
+    <string name="default_parameter_value_test">12345</string>
+
+    <!-- Error -->
+    <string name="error_nothing_response">Nothing is response....</string>
+
+    <!-- HTTP response code - Reference to rfc2616 HTTP/1.1 Status Code Definitions -->
+    <string name="http_0">Remote HTTP server no response!</string>
+    <string name="http_200">HTTP 200 OK</string>
+    <string name="http_400">HTTP 400 Bad Request</string>
+    <string name="http_401">HTTP 401 Unauthorized</string>
+    <string name="http_403">HTTP 403 Forbidden</string>
+    <string name="http_404">HTTP 404 Not Found</string>
+    <string name="http_408">HTTP 408 Request Timeout</string>
+    <string name="http_500">HTTP 500 Internal Server Error</string>
+    <string name="http_502">HTTP 502 Bad Gateway</string>
+    <string name="http_503">HTTP 503 Service Unavailable</string>
+
+</resources>
